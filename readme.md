@@ -25,4 +25,4 @@ This Python project demonstrates various operations that can be performed on lis
 To use this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/python-list-operations.git
+git clone https://github.com/rotich-brian/my-list-PYTHON
